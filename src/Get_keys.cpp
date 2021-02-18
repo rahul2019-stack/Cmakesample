@@ -5,5 +5,5 @@ using namespace std;
 
 void call_hellofunc()
 {
-	cout << "\n Hello oo";
+	cout << "\n Hello ";
 }
